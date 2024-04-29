@@ -1,14 +1,9 @@
-### Hi there 👋
+# About me
 
-I am a Data Scientist with more than five years of experience helping companies and institutions 
-solving complex problems using data.
+Data Science Leader with a passion for AI and Machine Learning. I've been thriving in the field since 2015, before it was a trending topic. 
 
-I have successfully completed projects ranging from predictive modeling to data pipelines 
-designing for both enterprises and startups.
+My journey started at Servinform, crafting automation solutions that saved significant resources. I further honed my skills at Kernel Analytics and Pragsis Bidoop, focusing on predictive analytics and energy prediction models.
 
-I have extensive experience using Python Data Science toolkit (pandas, scikit-learn, Tensorflow, 
-Keras, PySpark, etc.) and working with large amounts of data (~GB, TB) in a daily basis, so I am 
-also experienced with Big Data and distributed computing tools (Hadoop Ecosystem: Spark, Hive, 
-Impala, etc.) as well as parallel computing ones (GPU accelerated computing).
+In 2019, I co-founded WhiteBox, aiming to deliver top-tier Data & Analytics projects in Spain, the UK, and the US. We've grown significantly, maintaining high-quality standards and attracting top talent. In 2021, we branched out to become one of the first DaaS companies in Spain, launching DataMarket, a platform providing quality datasets for our clients.
 
-In 2019 I started my own company, a Data Science consultancy called [WhiteBoxᴹᴸ](https://whiteboxml.com).
+My goal is to continually innovate, add value through data, and promote technical excellence within my team.

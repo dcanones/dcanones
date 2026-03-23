@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://davidadrian.cc/index.xml"
           max_post_count: 5
-          template: "- [$title]($url)"
+          template: "$newline- [$title]($url)"
           comment_tag_name: "BLOG-POST-LIST"

@@ -44,8 +44,7 @@ Topics I come back to:
 
 #### Latest posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The definitive guide to Python virtual environments with conda 🐍](https://davidadrian.cc/blog/the-definitive-guide-to-python-virtual-environments-with-conda/)- [The online courses you must take to be a better Data Scientist](https://davidadrian.cc/blog/top-courses-data-science/)- [The Definitive Data Scientist Environment Setup](https://davidadrian.cc/blog/definitive-data-scientist-setup/)- [COVID-19 quarantine reflections - day 7: how AI can help mitigate a global pandemic](https://davidadrian.cc/blog/covid-19-quarantine-data-science-day-7/)- [Lessons learned from 5 years doing Data Science](https://davidadrian.cc/blog/data-science-lessons/)<!-- BLOG-POST-LIST:END -->
 
 Read more at [davidadrian.cc](https://davidadrian.cc).
 
